@@ -19,10 +19,18 @@ Key features include:
 }
 \references{
 \itemize{
-  \item{OECD/European Union/EC-JRC (2008), 'Handbook on Constructing Composite Indicators: Methodology and User Guide', OECD Publishing, Paris, <DOI:10.1787/533411815016>}
-  \item{Matteo Mazziotta & Adriano Pareto (2018), 'Measuring Well-Being Over Time: The Adjusted Mazziotta–Pareto Index Versus Other Non-compensatory Indices',Social Indicators Research, Springer, vol. 136(3), pages 967-976, April <DOI:10.1007/s11205-017-1577-5>}
-  \item{De Muro P., Mazziotta M., Pareto A. (2011), 'Composite Indices of Development and Poverty: An Application to MDGs',Social Indicators Research, Volume 104, Number 1, pp. 1-18 <DOI:10.1007/s11205-010-9727-z>}
+  \item{OECD/European Union/EC-JRC (2008), "Handbook on Constructing Composite Indicators: Methodology and User Guide", OECD Publishing, Paris, <DOI:10.1787/533411815016>}
+  \item{Matteo Mazziotta & Adriano Pareto (2018), "Measuring Well-Being Over Time: The Adjusted Mazziotta–Pareto Index Versus Other Non-compensatory Indices",Social Indicators Research, Springer, vol. 136(3), pages 967-976, April <DOI:10.1007/s11205-017-1577-5>}
+  \item{De Muro P., Mazziotta M., Pareto A. (2011), "Composite Indices of Development and Poverty: An Application to MDGs",Social Indicators Research, Volume 104, Number 1, pp. 1-18 <DOI:10.1007/s11205-010-9727-z>}
 }
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/GianmarcoBorrata/Indicator}
+  \item Report bugs at \url{https://github.com/GianmarcoBorrata/Indicator/issues}
+}
+
 }
 \author{
 Gianmarco Borrata <gianmarco.borrata@unina.it> and

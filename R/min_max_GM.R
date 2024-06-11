@@ -33,7 +33,7 @@ min_max_GM = function(data, pol="pos"){
   # 2) pol if not select is positive, otherwise write neg
   # It returns:
   # 1) norm_data : datafame of normalized data.
-  if(pol != "pos"){
+  if(pol == "pos"){
     return(min_max_GM_pos(data))
   }
   else{

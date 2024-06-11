@@ -36,7 +36,7 @@ Standardization_AMPI = function(data,pol="pos"){
   # 2) pol if not select is positive, otherwise write neg
   # It returns:
   # 1) normalized_data : a dataframe of normalized data.
-  if(pol != "pos"){
+  if(pol == "pos"){
     return(standardization_AMPI_Adjusted_pos(data))
   }
   else{

@@ -40,7 +40,7 @@ linear_aggregation_AMPI = function(data,pol="pos"){
   # 1) agg: dataframe with rows = observations and column = composite indicator.
 
   data = (as.data.frame(data))
-  if(pol != "pos") {
+  if(pol == "pos") {
     mean=apply(data,1,mean)
     sd = apply(data,1,sd)
     cv=sd/mean
